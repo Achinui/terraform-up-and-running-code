@@ -1,12 +1,12 @@
-# Terraform: Up & Running Code
+# Terraform: Up & Running Code for me 
 
-This repo contains the code samples for the book *[Terraform: Up and Running](http://www.terraformupandrunning.com)*, 
+This repo contains the code samples for my book *[Terraform: Up and Running](http://www.terraformupandrunning.com)*, 
 by [Yevgeniy Brikman](http://www.ybrikman.com).
 
 
 
 
-## Looking for the 1st, 2nd, or 3rd edition?
+## Looking for the 1st and 2nd edition?
 
 *Terraform: Up & Running* is now on its **3rd edition**; all the code in `master` is for this edition. If you're looking
 for code examples for other editions, please see the following branches:
@@ -33,6 +33,7 @@ For instructions on running the code, please consult the README in each folder, 
 
 
 
-## License
+## License and tax
 
 This code is released under the MIT License. See LICENSE.txt.
+to be continues
